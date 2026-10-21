@@ -1,0 +1,15 @@
+D:\Dowload\MdiAppAsync\bin\Debug\net8.0-windows\MdiAppAsync.exe
+D:\Dowload\MdiAppAsync\bin\Debug\net8.0-windows\MdiAppAsync.deps.json
+D:\Dowload\MdiAppAsync\bin\Debug\net8.0-windows\MdiAppAsync.runtimeconfig.json
+D:\Dowload\MdiAppAsync\bin\Debug\net8.0-windows\MdiAppAsync.dll
+D:\Dowload\MdiAppAsync\bin\Debug\net8.0-windows\MdiAppAsync.pdb
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.AssemblyInfoInputs.cache
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.AssemblyInfo.cs
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.csproj.CoreCompileInputs.cache
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.dll
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\refint\MdiAppAsync.dll
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.pdb
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAsync.genruntimeconfig.cache
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\ref\MdiAppAsync.dll
+D:\Dowload\MdiAppAsync\obj\Debug\net8.0-windows\MdiAppAs.43EE6F3D.Up2Date

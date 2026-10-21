@@ -1,0 +1,30 @@
+D:\Dowload\StudentManager\bin\Debug\net8.0-windows\StudentManager.exe
+D:\Dowload\StudentManager\bin\Debug\net8.0-windows\StudentManager.deps.json
+D:\Dowload\StudentManager\bin\Debug\net8.0-windows\StudentManager.runtimeconfig.json
+D:\Dowload\StudentManager\bin\Debug\net8.0-windows\StudentManager.dll
+D:\Dowload\StudentManager\bin\Debug\net8.0-windows\StudentManager.pdb
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfoInputs.cache
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfo.cs
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.csproj.CoreCompileInputs.cache
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.dll
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\refint\StudentManager.dll
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.pdb
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentManager.genruntimeconfig.cache
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\ref\StudentManager.dll
+D:\Dowload\StudentManager\obj\Debug\net8.0-windows\StudentM.8DAA3114.Up2Date
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\bin\Debug\net8.0-windows\StudentManager.exe
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\bin\Debug\net8.0-windows\StudentManager.deps.json
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\bin\Debug\net8.0-windows\StudentManager.runtimeconfig.json
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\bin\Debug\net8.0-windows\StudentManager.dll
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\bin\Debug\net8.0-windows\StudentManager.pdb
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.AssemblyInfoInputs.cache
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.AssemblyInfo.cs
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.csproj.CoreCompileInputs.cache
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.dll
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\refint\StudentManager.dll
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.pdb
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentManager.genruntimeconfig.cache
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\ref\StudentManager.dll
+D:\Dowload\bai tap 21-10 ltnet\bai4.6 21-10\obj\Debug\net8.0-windows\StudentM.8DAA3114.Up2Date

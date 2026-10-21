@@ -1,0 +1,15 @@
+D:\Dowload\MdiApp\bin\Debug\net8.0-windows\MdiApp.exe
+D:\Dowload\MdiApp\bin\Debug\net8.0-windows\MdiApp.deps.json
+D:\Dowload\MdiApp\bin\Debug\net8.0-windows\MdiApp.runtimeconfig.json
+D:\Dowload\MdiApp\bin\Debug\net8.0-windows\MdiApp.dll
+D:\Dowload\MdiApp\bin\Debug\net8.0-windows\MdiApp.pdb
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.AssemblyInfoInputs.cache
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.AssemblyInfo.cs
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.csproj.CoreCompileInputs.cache
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.dll
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\refint\MdiApp.dll
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.pdb
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.genruntimeconfig.cache
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\ref\MdiApp.dll
+D:\Dowload\MdiApp\obj\Debug\net8.0-windows\MdiApp.csproj.Up2Date
